@@ -1,0 +1,31 @@
+{
+	"name": "less2wxss",
+	"version": "0.1.1",
+	"readmeFilename": "README.md",
+	"description": "编译less，并且处理wxss逻辑",
+	"homepage": "https://github.com/jipinsansan/less2wxss",
+	"repository": "https://github.com/jipinsansan/less2wxss",
+	"keywords": [],
+	"main": "./index.js",
+	"dependencies": {
+		"filetools": "*",
+		"csso": "*",
+		"less": "*",
+		"commander": "*"
+	},
+	"devDependencies": {
+
+	},
+	"keywords": [
+		"lesstowxss",
+		"wxssparse",
+		"wxss clear up"
+	],
+	"author": {
+		"name": "Liang Jie",
+		"email": "372389761@qq.com",
+		"url": "http://orout.cn"
+	},
+	"optionalDependencies": {},
+	"license": "BSD"
+}
